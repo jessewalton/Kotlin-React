@@ -1,0 +1,4 @@
+[git-together]
+	domain = bluepepper.com
+[git-together "authors"]
+  jw = "Jesse Walton; jwalton@novetta.com"
